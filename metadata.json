@@ -1,0 +1,5 @@
+{
+  "name": "Error Analytics Dashboard",
+  "description": "A comprehensive real-time error monitoring dashboard that syncs with Gmail via IMAP and stores analytics in Firebase Firestore.",
+  "requestFramePermissions": []
+}
